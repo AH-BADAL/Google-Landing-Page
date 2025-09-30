@@ -1,0 +1,29 @@
+*{
+  margin: 0px;
+}
+
+Body{
+  background: black;
+}
+
+.container-one{
+  text-align: center;
+  margin-top: 350px;
+}
+
+.container-one input{
+  padding: 13px;
+  border-radius: 15px;
+  width: 400px;
+  border: 1px solid black;
+  font-family: tahoma;
+}
+.container-one h1{
+  font-size: 60px;
+  color: tomato;
+  margin-bottom: 20px;
+}
+button{
+  padding: 13px;
+  border-radius: 10px;
+}
